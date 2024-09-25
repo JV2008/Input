@@ -1,0 +1,41 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    height: 100dvh;
+    background-color: #344A72;
+    padding: 60px;
+}
+.titulo{
+    text-align: center;
+}
+.titulo1{
+    text-align: center;
+    font-size: small;
+}
+form{
+    width: 500px;
+    border: 20px;
+    background-color:#F0F0F0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+}
+groupbtn{
+    font-size: 1.5rem;
+    width: 100%;
+    background-color: green;
+    color: white;
+    border-bottom: 2px solid #000000;
+    border-radius: 10px;
+}
+.groupinput{
+    display: flex;
+flex-direction: column;
+gap: 10px;
+margin-top: 15px;
+
+}
+
